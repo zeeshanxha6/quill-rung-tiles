@@ -1,0 +1,13 @@
+You are an asset generator for a mobile game. Generate ONE image and save it as icon_1024.png in the CURRENT DIRECTORY.
+
+RULES:
+1. Use your NATIVE IMAGE GENERATION TOOL to generate the image - do NOT draw with Python/PIL.
+2. After generating, copy it from the generated_images path to the current directory as exactly: icon_1024.png
+3. icon_1024.png is the Android LAUNCHER ICON of this game: a 1024x1024 OPAQUE full-bleed square (no transparency, no rounded corners, no margins, no frames, no device mockup), the key object of the game mechanics large in the centre, rich and distinctive, readable at a small size. NO TEXT, NO LETTERS, NO WORDS, NO NUMBERS anywhere.
+4. Style: the same visual language a game of this theme would use for its logo and background; preferred palette: #F7F3EA,#26385C,#C8553D,#121B2E.
+5. Do NOT resize, do NOT create a zip. When done, print exactly: CODEX_ICON_DONE
+
+GAME:
+Название игры - "Quill Rung Tiles"
+Основные цвета и тематика - бренд (гембловый) - "Casino"
+Основная механика - "match-3"
